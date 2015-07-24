@@ -7,11 +7,12 @@
 					<img src="<?php echo $site->url() ?>/assets/images/arthur.jpg" class="img-responsive">
 				</div>
 			</div>
-			<div class="col-sm-8">
+			<div class="col-sm-8 text-box">
 				<h1>Arthur Schmitt</h1>
-				<hr>
 				<h2>Creative Technologist</h2>
-				<i class="fa fa-map-marker"></i> Montral, Canada
+				<p><i class="fa fa-map-marker"></i> Montral, Canada</p>
+				<hr>
+				<?php echo page('home')->text()->kirbytext() ?>
 			</div>
 		</div>
 	</div>
