@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - socials/diigo
+  - socials/kickstarter
   - home
   - socials/vimeo
   - socials/github
-  - socials/pinterest
-  - socials/tumblr

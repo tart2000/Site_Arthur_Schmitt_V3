@@ -1,12 +1,13 @@
-    <hr>
+
  	 	<footer class="footer" role="contentinfo">
  	 		<div class="container">
 				<div class="row">
 					<div class="col-sm-6 copyright">
-						<?php echo $site->copyright()->kirbytext() ?>					
+						<b>Links :</b>					
 					</div>
 					<div class="col-sm-6 colophon text-right">
-						<a href="http://getkirby.com/made-with-kirby-and-love">Made with Kirby and <b>♥</b></a>
+						Made with <a href="http://getkirby.com/" target="_blank">Kirby</a><br> 
+						Source code available on <a href="https://github.com/tart2000/Site_Arthur_Schmitt_V3" target="_blank">Github</a>
 					</div>
 				</div>
  	 		</div>

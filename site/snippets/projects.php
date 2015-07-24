@@ -1,5 +1,4 @@
 <div class="row">
-	<h2 class="col-xs-12">Latest projects</h2>
 	<?php foreach(page('projects')->children()->visible()->limit(3) as $project): ?>
 		<div class="col-sm-4">
 			<h2><?php echo $project->title()->html() ?></h2>
