@@ -1,16 +1,16 @@
-Title: Kirby Starterkit
+Title: Arthur Schmitt
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Arthur Schmitt
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Creative technologist
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: 3D printing, creative, hackathon, culture
 
 ----
 
