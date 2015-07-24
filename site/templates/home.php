@@ -14,6 +14,7 @@
 				<br><em><i class="fa fa-map-marker"></i> Montreal, Canada</em>
 				<hr>
 				<?php echo page('home')->text()->kirbytext() ?>
+				<a href="/about" class="btn btn-default">Find out more</a>
 			</div>
 		</div>
 	</div>
@@ -25,7 +26,12 @@
 			<?php endforeach ?>
 		</div>
 	</div>
+	<div class="center">
+		<i class="fa fa-chevron-down fa-3x"></i>
+	</div>
 </div>
+
+
 
 <h1 class="center">What have I been up to?</h1>
 
