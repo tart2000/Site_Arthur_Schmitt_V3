@@ -8,9 +8,10 @@
 				</div>
 			</div>
 			<div class="col-sm-8 text-box">
-				<h1>Arthur Schmitt</h1>
+				<h1>Arthur Schmitt </h1>
 				<h2>Creative Technologist</h2>
-				<p><i class="fa fa-map-marker"></i> Montral, Canada</p>
+				<em><i class="fa fa-graduation-cap"></i> MA RCA / MSc Imperial College / MEng ENSAM</em>  
+				<br><em><i class="fa fa-map-marker"></i> Montreal, Canada</em>
 				<hr>
 				<?php echo page('home')->text()->kirbytext() ?>
 			</div>
@@ -26,6 +27,13 @@
 	</div>
 </div>
 
+<h1 class="center">What have I been up to?</h1>
+
+<div class="container">
+	<div id="posts" class="card">
+		Posts here
+	</div>
+</div>
 
 	<div class="container" role="main">
     <?php snippet('projects') ?>
