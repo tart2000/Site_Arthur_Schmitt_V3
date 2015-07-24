@@ -1,0 +1,9 @@
+Title: linkedIn
+
+----
+
+Fontawesome: linkedin
+
+----
+
+Solink: https://ca.linkedin.com/in/arthurschmitt

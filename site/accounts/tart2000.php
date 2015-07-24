@@ -7,5 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - blog/hello-world
-  - blog/post-with-image
+  - socials/vimeo
+  - socials/github
+  - socials/pinterest
+  - socials/tumblr
+  - socials/linkedin
