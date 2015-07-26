@@ -8,12 +8,22 @@ fields:
   title:
     label: Title
     type:  text
-  year:
-    label: Year
-    type:  text
   text:
     label: Text
     type:  textarea
-  tags:
-    label: Tags
-    type:  tags
+  videoLink: 
+    label: Video link
+    type: Url 
+    width: 1/2
+  externalLink:
+    label: External link 
+    type: Url
+    width: 1/2
+  downLink: 
+    label: Download link
+    type: Url 
+    width: 1/2
+  forkLink: 
+    label: Fork 
+    type: Url
+    width: 1/2

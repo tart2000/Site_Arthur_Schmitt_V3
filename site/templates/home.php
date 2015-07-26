@@ -14,7 +14,7 @@
 				<br><em><i class="fa fa-map-marker"></i> Montreal, Canada</em>
 				<hr>
 				<?php echo page('home')->text()->kirbytext() ?>
-				<a href="/about" class="btn btn-default">more</a>
+				<a href="/about" class="btn btn-default">more »</a>
 			</div>
 		</div>
 	</div>
@@ -26,7 +26,7 @@
 
 
 
-<h1 class="center">What have I been up to?</h1>
+<h1 class="center"><?php echo page('projects')->title() ?></h1>
 
 <div class="container">
 	<div id="posts" class="card">

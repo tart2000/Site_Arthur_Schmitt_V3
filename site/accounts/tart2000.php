@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - projects/facebox
+  - projects/project-b
   - socials/diigo
   - socials/kickstarter
   - home
-  - socials/vimeo
-  - socials/github

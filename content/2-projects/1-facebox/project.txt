@@ -1,0 +1,21 @@
+Title: Facebox
+
+----
+
+Text: Facebox is a simple portable printer camera, inspired by the Polaroid. It uses a Raspberry Pi, a Pi camera and a thermal printer. Its body is 3D printed.
+
+----
+
+Videolink: https://www.youtube.com/watch?v=IuZUDrAImiY
+
+----
+
+Externallink: http://mozzarellabs.com/portfolio/facebox/
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 

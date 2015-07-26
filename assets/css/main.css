@@ -80,17 +80,62 @@ h2 {
 	margin-right: 15px;
 	margin-left: 15px;
 }
-a .fa {
+.social-cont a .fa {
 	color: #95a5a6;
 }
-a:hover .fa {
+.social-cont a:hover .fa {
 	color: #bdc3c7;
 }
 #posts {
 	background-color: rgba(255,255,255,0.7);
 	margin-top: 30px;
+	padding: 15px;
+}
+.project-thumb img {
+	max-width: 100%;
+}
+.project-thumb {
+	margin-bottom: 15px;
+}
+.project-text {
+	top: 0px;
+	opacity: 0;
+	position: absolute;
+	z-index: 0;
+	width: 100%;
+	height: 100%;
 	padding-left: 15px;
 	padding-right: 15px;
+	padding-bottom: 15px;
+	margin-left: -15px;
+	-webkit-transition: opacity 0.2s ease-in-out;
+	-moz-transition: opacity 0.2s ease-in-out;
+	-o-transition: opacity 0.2s ease-in-out;
+	-ms-transition: opacity 0.2s ease-in-out;
+	transition: opacity 0.2s ease-in-out;
+}
+.project-text:hover {
+	opacity: 1;
+}
+.project-cont {
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	height: 100%;
+	background-color: rgba(255,255,255,0.85);
+}
+.project-cont hr {
+	border-color: black;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.project-cont h2 {
+	margin-top: -7px;
+}
+.project-cont .fa {
+	margin-right: 10px;
+	margin-top: -15px;
 }
 .footer {
 	background-color: rgba(255,255,255,0.7);
