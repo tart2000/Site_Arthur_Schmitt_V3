@@ -1,5 +1,5 @@
 <div class="row">
-	<?php foreach(page('projects')->children()->visible()->limit(3) as $project): ?>
+	<?php foreach(page('projects')->children()->visible() as $project): ?>
 		<div class="col-sm-4">
 			<?php if($project->hasImages()): ?>
 				<div class="project-thumb">

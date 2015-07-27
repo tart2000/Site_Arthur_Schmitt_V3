@@ -89,13 +89,14 @@ h2 {
 #posts {
 	background-color: rgba(255,255,255,0.7);
 	margin-top: 30px;
-	padding: 15px;
+	padding: 30px;
+	padding-bottom: 0px;
 }
 .project-thumb img {
 	max-width: 100%;
 }
 .project-thumb {
-	margin-bottom: 15px;
+	margin-bottom: 30px;
 }
 .project-text {
 	top: 0px;
@@ -106,7 +107,7 @@ h2 {
 	height: 100%;
 	padding-left: 15px;
 	padding-right: 15px;
-	padding-bottom: 15px;
+	padding-bottom: 30px;
 	margin-left: -15px;
 	-webkit-transition: opacity 0.2s ease-in-out;
 	-moz-transition: opacity 0.2s ease-in-out;
