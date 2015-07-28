@@ -1,0 +1,33 @@
+Title: Generations
+
+----
+
+Text: 
+
+----
+
+Baseline: A game you can pass over to your grand-children. Developed during Paris's first ArtGame Weekend
+
+----
+
+Videolink: 
+
+----
+
+Externallink: http://www.oneliferemains.com/generations
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 
+
+----
+
+With: One Life Remains
+
+----
+
+Paged: false

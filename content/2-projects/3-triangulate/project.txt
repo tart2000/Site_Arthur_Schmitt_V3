@@ -1,0 +1,33 @@
+Title: Triangulate
+
+----
+
+Text: 
+
+----
+
+Baseline: A JS app to 'triangulate' an image by hand
+
+----
+
+With: Mozzarellabs
+
+----
+
+Paged: false
+
+----
+
+Videolink: 
+
+----
+
+Externallink: 
+
+----
+
+Downlink: 
+
+----
+
+Forklink: https://github.com/tart2000/triangle_snap

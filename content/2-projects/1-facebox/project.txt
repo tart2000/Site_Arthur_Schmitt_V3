@@ -18,7 +18,7 @@ Downlink:
 
 ----
 
-Forklink: 
+Forklink: https://github.com/paperManu/facebox
 
 ----
 
@@ -26,7 +26,7 @@ Baseline: A RasPi-powered portable printer camera
 
 ----
 
-With: Emmanuel Durand
+With: Mozzarellabs
 
 ----
 

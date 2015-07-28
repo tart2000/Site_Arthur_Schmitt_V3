@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - projects/icon-set
-  - projects/concrete-fix
-  - projects/facebox
-  - projects/maker-icon
-  - socials/diigo
+  - projects/mais-que-refaire
+  - projects/santiano
+  - projects/generations
+  - projects/iPhone-case
+  - projects/vector-arduino

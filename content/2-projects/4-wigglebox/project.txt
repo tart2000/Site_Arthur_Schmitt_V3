@@ -1,0 +1,33 @@
+Title: Wigglebox
+
+----
+
+Text: 
+
+----
+
+Baseline: A four-camera set-up to take animated GIF picture, AKA wigglegrams. Also tested with a set of 8 mirrors.
+
+----
+
+With: Mozzarellabs
+
+----
+
+Paged: false
+
+----
+
+Videolink: 
+
+----
+
+Externallink: http://3dspaceyou.mozzarellabs.com/
+
+----
+
+Downlink: 
+
+----
+
+Forklink: https://github.com/tart2000/3Dspacegif

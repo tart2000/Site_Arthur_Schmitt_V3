@@ -1,0 +1,33 @@
+Title: Saxo synth
+
+----
+
+Text: 
+
+----
+
+Baseline: A laser-cut Arduino-powered saxo synthesizer for professional musician
+
+----
+
+Videolink: https://vimeo.com/55108420
+
+----
+
+Externallink: 
+
+----
+
+Downlink: 
+
+----
+
+Forklink: http://www.thingiverse.com/thing:36997
+
+----
+
+With: Matthieu Metzger
+
+----
+
+Paged: false

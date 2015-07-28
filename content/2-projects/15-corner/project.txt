@@ -1,0 +1,33 @@
+Title: 3D printed connector
+
+----
+
+Text: 
+
+----
+
+Baseline: A 3D printed test for building modular furinture
+
+----
+
+Videolink: 
+
+----
+
+Externallink: 
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 
+
+----
+
+With: Museomix
+
+----
+
+Paged: false

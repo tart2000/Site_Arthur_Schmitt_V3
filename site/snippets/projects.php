@@ -18,6 +18,9 @@
 					<?php endif ?>
 					<strong><?php echo $project->baseline() ?></strong>
 					<p><?php echo $project->text()->excerpt(80) ?></p>
+					<?php if ($project->with() != '') : ?>
+						<em>With <?php echo $project->with() ?></em>
+					<?php endif ?>
 					<hr>
 					<!-- external links -->
 					<?php if($project->paged() == 'true'): ?>
@@ -40,6 +43,18 @@
 							<i class="fa fa-download" title="download"></i>
 						</a>
 					<?php endif ?>
+					<?php if ($project->hasDocuments()) : ?>
+						<a href="<?php echo $project->documents()->first()->url() ?>" target="_blank" download>
+							<i class="fa fa-download" title="download"></i>
+						</a>
+					<?php endif ?>
+					<?php foreach ($project->files() as $f) : ?>
+						<?php if ($f->type() == 'archive') : ?>
+							<a href="<?php echo $f->url() ?>" target="_blank" download>
+								<i class="fa fa-download" title="download"></i>
+							</a>
+						<?php endif ?>
+					<?php endforeach ?>
 					<?php if ($project->forkLink() != '') : ?>
 						<a href="<?php echo $project->forkLink() ?>" target="_blank">
 							<i class="fa fa-code-fork" title="fork project"></i>

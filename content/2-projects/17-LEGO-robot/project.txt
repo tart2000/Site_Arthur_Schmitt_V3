@@ -1,0 +1,33 @@
+Title: small LEGO robot
+
+----
+
+Text: 
+
+----
+
+Baseline: Oh, and it's having an icecream
+
+----
+
+Videolink: 
+
+----
+
+Externallink: 
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 
+
+----
+
+With: 
+
+----
+
+Paged: false

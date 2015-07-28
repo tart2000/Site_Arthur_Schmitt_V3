@@ -1,0 +1,33 @@
+Title: Mais Que ReFaire
+
+----
+
+Text: 
+
+----
+
+Baseline: 32-card game to describe the Maker movement and invent new projects. Kickstarted on Ulule
+
+----
+
+Videolink: 
+
+----
+
+Externallink: http://maisquerefaire.fr/
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 
+
+----
+
+With: nod-A
+
+----
+
+Paged: false

@@ -1,0 +1,33 @@
+Title: Isometric vector Arduino
+
+----
+
+Text: 
+
+----
+
+Baseline: Arduino drawing made using the 3D tools in Illustrator
+
+----
+
+Videolink: 
+
+----
+
+Externallink: 
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 
+
+----
+
+With: 
+
+----
+
+Paged: false

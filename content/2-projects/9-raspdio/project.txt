@@ -1,0 +1,33 @@
+Title: RaspDio
+
+----
+
+Text: 
+
+----
+
+Baseline: A RasPi-powered web radio, using Kano. 3D printed body
+
+----
+
+Videolink: 
+
+----
+
+Externallink: 
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 
+
+----
+
+With: gcoul
+
+----
+
+Paged: false
