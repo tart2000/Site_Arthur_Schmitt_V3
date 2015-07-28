@@ -8,10 +8,14 @@
 				</div>
 			</div>
 			<div class="col-sm-8 text-box">
-				<h1>Arthur Schmitt </h1>
-				<h2>Creative Technologist</h2>
-				<em><i class="fa fa-graduation-cap"></i> MA RCA / MSc Imperial College / MEng ENSAM</em>  
-				<br><em><i class="fa fa-map-marker"></i> Montreal, Canada</em>
+				<h1><?php echo $page->name() ?></h1>
+				<h2><?Php echo $page->baseline() ?></h2>
+				<?php if ($page->education() != '') : ?>
+					<em><i class="fa fa-graduation-cap"></i> <?php echo $page->education() ?></em>  
+				<?php endif ?>
+				<?php if ($page->location() != '') : ?>
+				<br><em><i class="fa fa-map-marker"></i> <?php echo $page->location() ?></em>
+				<?php endif ?>
 				<hr>
 				<?php echo page('home')->text()->kirbytext() ?>
 				<a href="/about" class="btn btn-default">more »</a>

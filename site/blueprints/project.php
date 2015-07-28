@@ -8,6 +8,9 @@ fields:
   title:
     label: Title
     type:  text
+  baseline: 
+    label: Baseline
+    type: text
   text:
     label: Text
     type:  textarea
