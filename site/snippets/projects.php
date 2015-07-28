@@ -1,6 +1,6 @@
 <div class="row">
 	<?php foreach(page('projects')->children()->visible() as $project): ?>
-		<div class="col-sm-4">
+		<div class="col-md-4 col-sm-6">
 			<?php if($project->hasImages()): ?>
 				<div class="project-thumb">
 					<?php echo thumb($project->images()->first(), array('width' => 400, 'crop' => true)); ?>
@@ -9,15 +9,22 @@
 			<!-- shows up on hover -->
 			<div class="project-text">	
 				<div class="project-cont">
-					<a href="<?php echo $project->url() ?>">
+					<?php if ($project->paged() == 'true'): ?>
+						<a href="<?php echo $project->url() ?>">
+							<h2><?php echo $project->title()->html() ?></h2>
+						</a>
+					<?php else : ?>
 						<h2><?php echo $project->title()->html() ?></h2>
-					</a>
-					<p><?php echo $project->text() ?></p>
+					<?php endif ?>
+					<strong><?php echo $project->baseline() ?></strong>
+					<p><?php echo $project->text()->excerpt(80) ?></p>
 					<hr>
 					<!-- external links -->
-					<a href="<?php echo $project->url() ?>">
-						<i class="fa fa-eye" title="view"></i>
-					</a>
+					<?php if($project->paged() == 'true'): ?>
+						<a href="<?php echo $project->url() ?>">
+							<i class="fa fa-eye" title="view"></i>
+						</a>
+					<?php endif ?>
 					<?php if ($project->videoLink() != '') : ?>
 						<a href="<?php echo $project->videoLink() ?>" target="_blank">
 							<i class="fa fa-film" title="watch video"></i>

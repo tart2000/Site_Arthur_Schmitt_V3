@@ -1,0 +1,33 @@
+Title: Concrete fix
+
+----
+
+Text: 
+
+----
+
+Baseline: 3D scanned / 3D printed prosthesis for concrete bloc
+
+----
+
+With: 
+
+----
+
+Paged: false
+
+----
+
+Videolink: 
+
+----
+
+Externallink: 
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 

@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - projects/icon-set
+  - projects/concrete-fix
   - projects/facebox
-  - projects/project-b
+  - projects/maker-icon
   - socials/diigo
-  - socials/kickstarter
-  - home

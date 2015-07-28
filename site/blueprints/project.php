@@ -11,6 +11,15 @@ fields:
   baseline: 
     label: Baseline
     type: text
+  with: 
+    label: Credits
+    type: text
+    width: 1/2
+  paged: 
+    label: Paged?
+    type: toggle
+    text: yes/no
+    width: 1/2
   text:
     label: Text
     type:  textarea
