@@ -23,6 +23,9 @@ h2 {
 .center {
 	text-align: center;
 }
+.mt {
+	margin-top: 15px;
+}
 /* Navbar */
 .navbar-brand>img {
 	max-height: 100%;
@@ -42,8 +45,8 @@ h2 {
 	background-color: rgba(255,255,255,0.7);
 	margin-top: 100px;
 }
-#card1 p {
-	font-size: 1.3em;
+#card1 p, .page p {
+	font-size: 1.15em;
 }
 .card {
 	border-radius: 5px;
@@ -138,14 +141,28 @@ h2 {
 	margin-right: 10px;
 	margin-top: -15px;
 }
+.project-button {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
 .footer {
 	background-color: rgba(255,255,255,0.7);
 	margin-top: 90px;
 	padding-top: 30px;
 	padding-bottom: 30px;
 }
-
-
+.back {
+	padding: 10px;
+	position: absolute;
+ 	top: 5px;
+}
+.page {
+	background-color: rgba(255,255,255,0.75);
+	margin-top: 80px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 15px;
+}
 
 
 

@@ -2,12 +2,36 @@
  	 	<footer class="footer" role="contentinfo">
  	 		<div class="container">
 				<div class="row">
-					<div class="col-sm-6 copyright">
-						<b>Links :</b>					
+					<div class="col-sm-4 copyright">
+						<b><?php echo page('links')->title() ?></b>
+						<div class="mt">
+							<?php foreach (page('links')->children() as $l) : ?>
+								<a href="<?php echo $l->link() ?>" target="_blank"><?php echo $l->title() ?></a></br>
+							<?php endforeach ?>		
+						</div>			
 					</div>
-					<div class="col-sm-6 colophon text-right">
-						Made with <a href="http://getkirby.com/" target="_blank">Kirby</a><br> 
-						Source code available on <a href="https://github.com/tart2000/Site_Arthur_Schmitt_V3" target="_blank">Github</a>
+					<div class="col-sm-4">
+						<strong>Contact me</strong>
+						<form class="mt" action="//formspree.io/tart2000design@gmail.com" method="POST">
+						    <div class="form-group">
+						    	<input class="form-control" type="text" name="name" placeholder="Name">
+						    </div>
+						    <div class="form-group">
+						    	<input class="form-control" type="email" name="_replyto" placeholder="Email">
+						    </div>
+						    <div class="form-group">
+							    <textarea class="form-control" name="message" rows="5" placeholder="Message"></textarea>
+							</div>
+						    <input class="btn btn-default" type="submit" value="Send">
+						</form>
+					</div>
+					<div class="col-sm-4 colophon text-right">
+						<stron>Code</strong>
+						<div class="mt">
+							Made with <a href="http://getkirby.com/" target="_blank">Kirby</a><br> 
+							Using <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> and <a href="http://fortawesome.github.io/Font-Awesome/icons/" target="_blank">Font Awesome</a></br>
+							Source code available on <a href="https://github.com/tart2000/Site_Arthur_Schmitt_V3" target="_blank">Github</a>
+						</div>
 					</div>
 				</div>
  	 		</div>

@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - projects/mais-que-refaire
-  - projects/santiano
-  - projects/generations
-  - projects/iPhone-case
-  - projects/vector-arduino
+  - about
+  - links/museomix
+  - home
+  - projects/3dday
+  - links

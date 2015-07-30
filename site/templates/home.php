@@ -36,6 +36,9 @@
 	<div id="posts" class="card">
 		<?php snippet('projects') ?>
 	</div>
+	<div class="center project-button">
+		<a href="/projects" class="center btn btn-default btn-lg">View all projects</a>
+	</div>
 </div>
 
 

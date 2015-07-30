@@ -1,0 +1,33 @@
+Title: 3Dday
+
+----
+
+Baseline: A day of workshop to investigate the potential of 3D printing in the coming years for the French federation of plasturgists
+
+----
+
+With: Corpoe
+
+----
+
+Paged: false
+
+----
+
+Text: 
+
+----
+
+Videolink: https://vimeo.com/133163952
+
+----
+
+Externallink: http://www.laplasturgie.fr/le-3d-day-160415-usine-io-paris/
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 
