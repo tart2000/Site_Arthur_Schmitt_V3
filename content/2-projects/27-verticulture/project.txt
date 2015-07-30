@@ -1,0 +1,33 @@
+Title: Verticulture
+
+----
+
+Text: 
+
+----
+
+Baseline: Modular self-watering vertical gardening system
+
+----
+
+Videolink: 
+
+----
+
+Externallink: http://www.mazbox.com/project/verticulture
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 
+
+----
+
+With: Marek Berez,  Sian Smyth and Lucy Helme
+
+----
+
+Paged: false
