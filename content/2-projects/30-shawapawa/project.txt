@@ -1,0 +1,33 @@
+Title: shawapawa
+
+----
+
+Baseline: water-powered shower radio. RCA solo project. Working prototype
+
+----
+
+With: 
+
+----
+
+Paged: false
+
+----
+
+Text: 
+
+----
+
+Videolink: 
+
+----
+
+Externallink: 
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 

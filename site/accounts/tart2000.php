@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - about
-  - links/museomix
-  - home
-  - projects/3dday
-  - links
+  - projects/laposte
+  - projects/led-display
+  - projects/notepads
+  - projects/penguin-king
+  - projects/chair

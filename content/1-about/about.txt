@@ -4,13 +4,35 @@ Title: About me
 
 Text: 
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+####I am a passionate, curious and creative tinkerer with a strong technical background. My work is deeply inspired by the DIY (Do It Yourself) culture and, more than that, by DIWO (Do It With Others) principles.
 
-## Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a.
+####Over the years, I have developed a specialization in the mechanics of creativity, especially within short sprint periods. I have ran dozens of hackathons, in a variety of settings.
 
-### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+##experience 
+I graduated as a mechanical engineer (ENSAM, France) and industrial designer (Royal College of Art & Imperial College, London). I was trained to design thinking methodologies that I have had the chance to apply to a variety of projects (products, platforms, applications, services, architecture, etc.). 
 
-#### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+After graduating at the RCA, I worked for a year at the Helen Hamlyn Research Center on a project about access to energy in developing countries for Legrand. My exploration took me to hippie communes in Wales as well as slums in Mumbai. 
+
+I then joined French design school ENSCI les Ateliers in Paris as the first batch of D-labs (design laboratories) and worked on three different research projects involving new uses of technology. 
+
+In 2011, I joined a young start-up ((link: http://nod-a.com text: nod-A)) as the first employee. I helped the company define its services and grow to 10 employees. It runs intense problem-solving, open-innovation, prototype-driven, creative sprints for companies. I coined the term ‘makestorming’ (make + brainstorming) to describe that activity.
+
+(image: oim.jpg)
+
+Since 2012, I have been involved emergence of fablabs in France. I helped design and run a temporary fablab in Paris’ Science museum, during the (link: http://fablabsquared.org text: fablab squared) experience which aimed to disseminate fablabs in France. The country now has more than 100 fablabs. 
+
+I also contributed to start the first fablab in central Paris ((link: http://letpetitfablabdeparis.fr text: Le Petit Fablab de Paris)).
+
+I have been involved in (link: http://museomix.org text: Museomix), the international museum makeathon, since its creation in Paris in 2011. I am part of the 'Agora', the strategic decision group. I contribute regularly to the development of the project, which works as an open-source community. 
+
+I love experimenting with technology and fabrication. I have had a 3D printer for a few years and I love the fact that I can go from idea to prototype in just a few hours. Combined with programmable platforms (Arduino, RasPi, etc.), it makes it easy to generate innovative solutions through prototyping and experimention, blending physical and digital experiences. As I always like learning new things, I have taken on coding quite seriously for about 2 years, using online education ressources. 
+
+Creative, enthusiast and critical, I am a good element in a team. I love exchanging ideas with others and bringing concepts at their maximum potential. 
+
+I am a fervent user of new technologies and I believe we’re only at the beginning of how we can use them to create a better society. 
+
+Also, I (link: http://stuff2000.com text: collect) things called ‘2000’. 
+
+I am now based in Montreal where I work on all kinds of creative projects. I am a co-creator (link: http://tinktank.club text: TinkTank), (link: http://technoculture.club text: Techno Culture Club) and (link: http://mozzarellabs.com text: Mozzarellabs). 
+
+Have a look at my (link: http://cv.arthurschmitt.com text: CV) or contact me using the form below.

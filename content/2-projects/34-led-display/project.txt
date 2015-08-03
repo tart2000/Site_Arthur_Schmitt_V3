@@ -1,0 +1,33 @@
+Title: LED display
+
+----
+
+Baseline: LED display for sousaphone for the French brass band les "Josettes Noires"
+
+----
+
+With: 
+
+----
+
+Paged: false
+
+----
+
+Text: 
+
+----
+
+Videolink: 
+
+----
+
+Externallink: http://www.instructables.com/id/LED-display-for-sousaphone/
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 

@@ -1,0 +1,33 @@
+Title: notepads
+
+----
+
+Baseline: DIY notepads using reclaimed scientific papers.
+
+----
+
+With: 
+
+----
+
+Paged: false
+
+----
+
+Text: 
+
+----
+
+Videolink: 
+
+----
+
+Externallink: 
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 

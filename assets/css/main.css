@@ -17,6 +17,10 @@ h2 {
 	font-weight: 100; 
 	color: #7f8c8d;
 }
+h4 {
+	font-weight: 300;
+	font-size: 130%; 
+}
 .right {
 	float: right;
 }
@@ -163,8 +167,10 @@ h2 {
 	padding-right: 30px;
 	padding-bottom: 15px;
 }
-
-
+.page img {
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
 
 
 

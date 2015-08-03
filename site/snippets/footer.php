@@ -26,7 +26,7 @@
 						</form>
 					</div>
 					<div class="col-sm-4 colophon text-right">
-						<stron>Code</strong>
+						<strong>Code</strong>
 						<div class="mt">
 							Made with <a href="http://getkirby.com/" target="_blank">Kirby</a><br> 
 							Using <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> and <a href="http://fortawesome.github.io/Font-Awesome/icons/" target="_blank">Font Awesome</a></br>

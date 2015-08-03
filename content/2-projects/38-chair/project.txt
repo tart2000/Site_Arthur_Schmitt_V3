@@ -1,0 +1,33 @@
+Title: chair
+
+----
+
+Baseline: triangulated chair
+
+----
+
+With: 
+
+----
+
+Paged: false
+
+----
+
+Text: 
+
+----
+
+Videolink: 
+
+----
+
+Externallink: 
+
+----
+
+Downlink: 
+
+----
+
+Forklink: 
