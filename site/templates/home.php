@@ -18,19 +18,28 @@
 				<?php endif ?>
 				<hr>
 				<?php echo page('home')->text()->kirbytext() ?>
-				<a href="/about" class="btn btn-default">more »</a> <a href="http://cv.arthurschhmitt.com" class="btn btn-default" target="_blank">CV</a>
+				<a href="/about" class="btn btn-default">more »</a> <a href="http://cv.arthurschmitt.com" class="btn btn-default" target="_blank">CV</a>
 			</div>
 		</div>
 	</div>
-	<?php snippet('socials') ?>
-	<div class="center">
-		<i class="fa fa-chevron-down fa-3x"></i>
-	</div>
+</div>
+
+<?php snippet('socials') ?>
+
+<div class="center">
+	<i class="fa fa-chevron-down fa-3x"></i>
 </div>
 
 
 
+
 <h1 class="center"><?php echo page('projects')->title() ?></h1>
+
+<div class="container bmt">
+	<div class="card">
+		<?php snippet('cats') ?>
+	</div>
+</div>
 
 <div class="container">
 	<div id="posts" class="card">

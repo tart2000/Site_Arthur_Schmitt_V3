@@ -11,19 +11,21 @@
 						</div>			
 					</div>
 					<div class="col-sm-4">
-						<strong>Contact me</strong>
-						<form class="mt" action="//formspree.io/tart2000design@gmail.com" method="POST">
-						    <div class="form-group">
-						    	<input class="form-control" type="text" name="name" placeholder="Name">
-						    </div>
-						    <div class="form-group">
-						    	<input class="form-control" type="email" name="_replyto" placeholder="Email">
-						    </div>
-						    <div class="form-group">
-							    <textarea class="form-control" name="message" rows="5" placeholder="Message"></textarea>
-							</div>
-						    <input class="btn btn-default" type="submit" value="Send">
-						</form>
+						<?php if ($page->isHomePage()) : ?>
+							<strong>Contact me</strong>
+							<form class="mt" action="//formspree.io/tart2000design@gmail.com" method="POST">
+							    <div class="form-group">
+							    	<input class="form-control" type="text" name="name" placeholder="Name">
+							    </div>
+							    <div class="form-group">
+							    	<input class="form-control" type="email" name="_replyto" placeholder="Email">
+							    </div>
+							    <div class="form-group">
+								    <textarea class="form-control" name="message" rows="5" placeholder="Message"></textarea>
+								</div>
+							    <input class="btn btn-default" type="submit" value="Send">
+							</form>
+						<?php endif ?>
 					</div>
 					<div class="col-sm-4 colophon text-right">
 						<strong>Code</strong>

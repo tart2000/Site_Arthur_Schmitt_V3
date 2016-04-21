@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - projects/triangulate
+  - projects/icon-set
+  - projects/facebox
   - projects/laposte
   - projects/led-display
-  - projects/notepads
-  - projects/penguin-king
-  - projects/chair

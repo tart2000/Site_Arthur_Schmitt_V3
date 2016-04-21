@@ -31,3 +31,7 @@ With: Mozzarellabs
 ----
 
 Paged: false
+
+----
+
+Categories: 3d-printing, interactive

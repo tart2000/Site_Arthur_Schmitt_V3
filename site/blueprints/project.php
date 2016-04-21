@@ -23,6 +23,12 @@ fields:
   text:
     label: Text
     type:  textarea
+  categories:
+    label: Category
+    type: checkboxes
+    options: query
+    query:
+      page: categories
   videoLink: 
     label: Video link
     type: Url 

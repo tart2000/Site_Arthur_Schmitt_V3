@@ -31,3 +31,7 @@ With:
 ----
 
 Paged: false
+
+----
+
+Categories: graphic

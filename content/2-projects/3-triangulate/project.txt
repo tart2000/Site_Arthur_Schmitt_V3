@@ -2,7 +2,7 @@ Title: Triangulate
 
 ----
 
-Text: 
+Text: An app built with paper.js that does awesome things.
 
 ----
 
@@ -31,3 +31,7 @@ Downlink:
 ----
 
 Forklink: https://github.com/tart2000/triangle_snap
+
+----
+
+Categories: experimentation, graphic, interactive
