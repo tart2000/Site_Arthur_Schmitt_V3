@@ -1,5 +1,4 @@
 <?php snippet('header') ?>
-<?php snippet('back') ?>
 
 
 <div class="center bmt">
@@ -17,13 +16,11 @@
   <?php $subpages = $subpages->filterBy('categories', $tag, ','); ?>
 <?php endif ?>
 
-<div class="container-fluid">
-	<div id="posts" class="card">
-		<div class="row">
-			<?php foreach($subpages as $project): ?>
-				<?php snippet('project-list-item', array('project' => $project)) ?>
-			<?php endforeach ?>
-		</div>
+<div class="container-fluid" id="posts">
+	<div class="row">
+		<?php foreach($subpages as $project): ?>
+			<?php snippet('project-list-item', array('project' => $project)) ?>
+		<?php endforeach ?>
 	</div>
 </div>
 

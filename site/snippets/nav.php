@@ -1,14 +1,10 @@
-<nav class="navbar navbar-default navbar-top">
-	<div class="container">
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-			<a class="navbar-brand" href="<?php echo $site->url() ?>"><img src="<?php echo url('assets/images/logo.svg') ?>" alt="<?php echo $site->title()->html() ?>" class="img-responsive" /></a>
-		</div>
-    <?php snippet('menu') ?>
-	</div>
-</nav>
+<div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+  	<?php foreach ($site->pages()->visible() as $lk) : ?>
+  		<a href="<?php echo $lk->url() ?>"><?php echo $lk->title() ?></a>
+	<?php endforeach ?>
+  </div>
+</div>
+
+<span class="burger" onclick="openNav()">&#9776;</span>

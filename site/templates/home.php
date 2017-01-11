@@ -14,9 +14,8 @@
 	<?php if ($page->location() != '') : ?>
 	<br><em><i class="fa fa-map-marker"></i> <?php echo $page->location() ?></em>
 	<?php endif ?>
-	<hr>
+
 	<?php echo page('home')->text()->kirbytext() ?>
-	<a href="/projects" class="btn btn-default">Some projects</a>
 	<a href="/about" class="btn btn-default">more »</a> 
 	<a href="http://cv.arthurschmitt.com" class="btn btn-default" target="_blank">CV</a>
 
@@ -24,9 +23,5 @@
 </div>
 
 <?php snippet('socials') ?>
-
-
-
-
 
 <?php snippet('footer') ?>

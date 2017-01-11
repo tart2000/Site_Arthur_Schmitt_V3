@@ -1,8 +1,6 @@
 <?php snippet('header') ?>
-<?php snippet('back') ?>
 
-
-	<div class="container text" role="main">
+	<div class="container text page" role="main">
 
 		<div class="card page">
 			<h2><?php echo $page->title()->html() ?></h2>

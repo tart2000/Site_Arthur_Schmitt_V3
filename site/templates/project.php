@@ -1,5 +1,4 @@
 <?php snippet('header') ?>
-<?php snippet('back') ?>
 
 
 <div class="center bmt">
