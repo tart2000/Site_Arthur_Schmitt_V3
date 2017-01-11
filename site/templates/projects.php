@@ -16,7 +16,7 @@
   <?php $subpages = $subpages->filterBy('categories', $tag, ','); ?>
 <?php endif ?>
 
-<div class="container-fluid" id="posts">
+<div class="container-fluid bmt" id="posts">
 	<div class="row">
 		<?php foreach($subpages as $project): ?>
 			<?php snippet('project-list-item', array('project' => $project)) ?>

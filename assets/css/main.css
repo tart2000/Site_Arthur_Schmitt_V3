@@ -4,8 +4,12 @@
    Author's custom styles
    ========================================================================== */
 
+html {
+	height: 100%;
+}
 body {
 	border: solid 10px #2c3e50;
+	min-height: 100%;
 }
 h1 {
 	color: #2c3e50;
@@ -39,6 +43,11 @@ a {
 }
 .center {
 	text-align: center;
+}
+.centered {
+	margin-left: auto;
+	margin-right: auto; 
+	display: table;
 }
 .mt {
 	margin-top: 15px;
