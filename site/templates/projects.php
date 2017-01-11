@@ -3,10 +3,10 @@
 
 
 <div class="center bmt">
-	<h1><?php echo $page->title()->html() ?></h1>
+	<h2><?php echo $page->title()->html() ?></h2>
 </div>
 
-<div class="container bmt">
+<div class="container-fluid bmt">
 	<div class="card">
 		<?php snippet('cats') ?>
 	</div>
@@ -17,7 +17,7 @@
   <?php $subpages = $subpages->filterBy('categories', $tag, ','); ?>
 <?php endif ?>
 
-<div class="container">
+<div class="container-fluid">
 	<div id="posts" class="card">
 		<div class="row">
 			<?php foreach($subpages as $project): ?>

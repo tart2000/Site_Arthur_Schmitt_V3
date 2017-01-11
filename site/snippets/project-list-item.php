@@ -1,4 +1,4 @@
-<div class="col-md-4 col-sm-6">
+<div class="col-md-3 col-sm-4">
 			<?php if($project->hasImages()): ?>
 				<div class="project-thumb">
 					<?php echo thumb($project->images()->first(), array('width' => 400, 'crop' => true)); ?>
