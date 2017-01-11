@@ -21,6 +21,12 @@ h4 {
 	font-weight: 300;
 	font-size: 130%; 
 }
+img {
+	max-width: 100%;
+}
+p {
+	margin-top: 15px;
+}
 .right {
 	float: right;
 }
@@ -29,6 +35,9 @@ h4 {
 }
 .mt {
 	margin-top: 15px;
+}
+.mb {
+	margin-bottom: 15px;
 }
 .bmt {
 	margin-top: 45px;
