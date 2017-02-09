@@ -12,6 +12,12 @@
 				</div>			
 			</div>
 			<div class="col-sm-4">
+				<b>Pages</b>
+				<div class="mt">
+					<?php foreach ($site->pages()->visible() as $l) : ?>
+						<a href="<?php echo $l->link() ?>" target="_blank"><?php echo $l->title() ?></a></br>
+					<?php endforeach ?>		
+				</div>	
 
 			</div>
 			<div class="col-sm-4 colophon text-right">

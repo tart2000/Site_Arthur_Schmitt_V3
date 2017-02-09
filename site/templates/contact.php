@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-	<div class="container text" role="main">
+	<div class="container text page" role="main">
 		<div class="col-md-6">
 			<form class="mt" action="//formspree.io/tart2000design@gmail.com" method="POST">
 			    <div class="form-group">

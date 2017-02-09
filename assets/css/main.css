@@ -19,12 +19,11 @@ h1 {
 }
 h2 {
 	margin-top: 10px;
-	font-weight: 100; 
+	font-weight: 200; 
 	color: #7f8c8d;
 }
 h4 {
-	font-weight: 300;
-	font-size: 130%; 
+	font-size: 1.4em;
 }
 img {
 	max-width: 100%;
@@ -142,8 +141,8 @@ a {
 #card1 {
 	margin-top: 100px;
 }
-#card1 p, .page p {
-	font-size: 1.15em;
+#card1 p, .page p, .page li {
+	font-size: 1.3em;
 }
 .text-box {
 	padding-left: 30px;
@@ -197,7 +196,7 @@ a {
 	height: 100%;
 	padding-left: 15px;
 	padding-right: 15px;
-	padding-bottom: 30px;
+	padding-bottom: 0px;
 	margin-left: -15px;
 	-webkit-transition: opacity 0.2s ease-in-out;
 	-moz-transition: opacity 0.2s ease-in-out;

@@ -18,7 +18,7 @@ class InputListField extends InputField {
 
     $input = $this->input($value);
 
-    $label = new Brick('label', $this->i18n($text));
+    $label = new Brick('label', '<span>' . $this->i18n($text) . '</span>');
     $label->addClass('input');
     $label->attr('data-focus', 'true');
     $label->prepend($input);
@@ -39,8 +39,14 @@ class InputListField extends InputField {
       case 2:
         $width = ' field-grid-item-1-2';
         break;
+      case 3:
+        $width = ' field-grid-item-1-3';
+        break;
       case 4:
         $width = ' field-grid-item-1-4';
+        break;
+      case 5:
+        $width = ' field-grid-item-1-5';
         break;
       default:
         $width = '';
